@@ -2,14 +2,14 @@ import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 const images = [
-  "/uploads/f0f5e2a8-0de4-4427-b055-0b742d64b858.png",
-  "/uploads/334081c4-055b-43d7-88ff-f8213b49483f.png",
-  "/uploads/ebc8ca28-db9d-4b64-857c-049eca7c99bd.png",
-  "/uploads/f68d9120-2a9b-4b93-892a-b942e6890dde.png",
-  "/uploads/2d70d9a3-0c2a-4eb1-a365-5390dad9141e.png",
-  "/uploads/eb29f5c1-9f4c-4392-823f-d4f43af3ed66.png",
-  "/uploads/268e69be-5d92-4d64-8947-91208f6f8db7.png",
-  "/uploads/71d15647-8dc3-470e-80d2-0a105735a502.png"
+  "/invitation-card/uploads/f0f5e2a8-0de4-4427-b055-0b742d64b858.png",
+  "/invitation-card/uploads/334081c4-055b-43d7-88ff-f8213b49483f.png",
+  "/invitation-card/uploads/ebc8ca28-db9d-4b64-857c-049eca7c99bd.png",
+  "/invitation-card/uploads/f68d9120-2a9b-4b93-892a-b942e6890dde.png",
+  "/invitation-card/uploads/2d70d9a3-0c2a-4eb1-a365-5390dad9141e.png",
+  "/invitation-card/uploads/eb29f5c1-9f4c-4392-823f-d4f43af3ed66.png",
+  "/invitation-card/uploads/268e69be-5d92-4d64-8947-91208f6f8db7.png",
+  "/invitation-card/uploads/71d15647-8dc3-470e-80d2-0a105735a502.png"
 ];
 
 const CoupleGallery = () => {
